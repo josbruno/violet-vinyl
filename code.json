@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Nessa Barrett - AFTERCARE",
+    "preco": 249.90,
+    "imagem": "aftercare.webp",
+    "descricao": "Dark-pop"
+  },
+  {
+    "nome": "Ashley Sienna - EDEN",
+    "preco": 189.90,
+    "imagem": "eden.webp",
+    "descricao": "Indie Pop"
+  },
+  {
+    "nome": "MC Hariel - Avisa Que É O Funk",
+    "preco": 149.90,
+    "imagem": "avisa que é o funk.jpg",
+    "descricao": "Funk"
+  },
+  {
+    "nome": "Lil Peep - HELLBOY",
+    "preco": 219.90,
+    "imagem": "hellboy.png",
+    "descricao": "Emo Rap"
+  },
+  {
+    "nome": "Lana Del Rey - Ultraviolence",
+    "preco": 239.90,
+    "imagem": "ultraviolence.webp",
+    "descricao": "Alternative / Pop"
+  }
+]
